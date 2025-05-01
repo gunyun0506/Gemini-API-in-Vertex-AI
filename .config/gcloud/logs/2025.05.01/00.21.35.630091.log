@@ -1,0 +1,8 @@
+2025-05-01 00:21:35,634 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2025-05-01 00:21:35,656 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'get_value']
+2025-05-01 00:21:35,659 DEBUG    root            Running [gcloud.config.get-value] with arguments: [SECTION/PROPERTY: "project"]
+2025-05-01 00:21:35,668 DEBUG    root            Chosen display Format:value(.)
+2025-05-01 00:21:35,669 INFO     root            Display format: "value(.)"
+2025-05-01 00:21:35,670 INFO     ___FILE_ONLY___ qwiklabs-gcp-00-d083917f1f0f
+
+2025-05-01 00:21:35,670 DEBUG    root            SDK update checks are disabled.
